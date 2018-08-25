@@ -300,10 +300,10 @@ aside .heading img {
 }
 
 .sidebar-info .row {
-    margin-bottom: 15px;
     position: relative;
     font-size: 16px;
     line-height: 24px;
+    margin-top: 50px;
 }
 
 .sidebar-info p {
@@ -322,12 +322,6 @@ aside .heading img {
 
 .sidebar-info .skills h3 {
     text-transform: none;
-}
-
-.sidebar-info .skills {
-    margin-bottom: 0px;
-    border-bottom: none; 
-    margin-top: 50px;
 }
 
 .sidebar-info .skills .progress {
@@ -352,6 +346,10 @@ aside .heading img {
     right: 0px;
     left: 100%;
     margin-left: -6px;
+}
+
+.sidebar-info .languages i {
+    left: -22%;
 }
 
 
