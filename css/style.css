@@ -267,7 +267,7 @@ p {
 /* ---aside--- */
 
 aside.sidebar {
-    width: 240px;
+    width: 400px;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
     background: #538cc6
     ; 
@@ -297,7 +297,7 @@ aside .heading img {
 .sidebar-info i {
     position: absolute;
     left: -15%;
-    
+    top: 3px;
 }
 
 .sidebar-info .row {
@@ -354,7 +354,8 @@ aside .heading img {
 }
 
 .sidebar-info .languages i {
-    left: -22%;
+    left: -20%;
+    top: 0;
 }
 
 
@@ -366,7 +367,6 @@ aside .heading img {
 /* ---main--- */
 
 .main {
-    width: 700px;
     color: #767270;
 }
 
