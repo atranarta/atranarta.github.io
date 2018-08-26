@@ -311,6 +311,10 @@ aside .heading img {
     margin-bottom: 15px;
 }
 
+.sidebar-info .contacts div {
+    position: relative;
+}
+
 .sidebar-info .email a {
     line-height: 24px;
     color: #fff;
